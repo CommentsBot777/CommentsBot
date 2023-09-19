@@ -1,2 +1,3 @@
-# CommentsBot
-Бот для комментов
+# Hi i`m CommentsBot
+я твой бот помощник
+
